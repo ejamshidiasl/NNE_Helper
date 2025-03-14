@@ -2,6 +2,9 @@
 
 A small collection of functions designed for data processing, numerical transformations, and visualization in machine learning workflows.
 
+## How to install
+no need to install. just download `nne_helper.py` file, copy to project folder and then import it. `from nne_helper import *`
+
 ## Functions Overview + Usage
 
 ### 1. number_to_binary(number, num_bits=16)
